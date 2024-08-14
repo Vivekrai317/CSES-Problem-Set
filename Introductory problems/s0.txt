@@ -1,0 +1,5 @@
+S0(p1^a1) = (a1+1)
+S1(p1^a1) = product of all gps
+S2(p1^a1) = product of squares gps
+P(n) = n^(S0(n)/2) if even
+if odd multiply root n

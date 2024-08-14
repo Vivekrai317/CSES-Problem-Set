@@ -1,0 +1,23 @@
+Dear Hiring Manager,
+
+I am excited to apply for the position at Oracle. As a final-year Information Technology student at the University Institute of Engineering and Technology, Panjab University, I have honed my skills in full-stack development, database management, and software engineering—aligning closely with Oracle’s commitment to innovation and excellence.
+
+During my tenure as a Summer Trainee at the Design Innovation Centre, Panjab University, I successfully developed end-to-end projects utilizing HTML, CSS, and JavaScript, emphasizing responsive design and user-friendly interfaces. This experience, coupled with my academic foundation in programming languages such as Java, Python, and SQL, has equipped me to contribute effectively to Oracle’s dynamic team.
+
+Highlights of my qualifications include:
+
+Project Leadership: Engineered "TripGenie," an AI-powered trip planner integrating React and Gemini AI, providing personalized travel recommendations and real-time updates.
+
+Full-Stack Expertise: Built "Chime," a secure messaging platform leveraging the MERN stack, enabling seamless real-time communication with advanced authentication protocols.
+
+Technical Acumen: Proficient in frameworks and tools like ReactJS, ExpressJS, MongoDB, and Git, with a strong grasp of data structures and algorithms.
+
+What draws me to Oracle is its emphasis on fostering technological advancements that shape industries. I am particularly inspired by Oracle’s work in cloud infrastructure and enterprise solutions, and I am eager to bring my skills and enthusiasm to contribute to such impactful projects.
+
+I would welcome the opportunity to discuss how my experiences and aspirations align with Oracle’s goals. Thank you for considering my application. I look forward to the possibility of contributing to Oracle’s legacy of innovation.
+
+Sincerely,
+
+Vivek
+vivekrai317@gmail.com
+
